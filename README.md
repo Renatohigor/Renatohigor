@@ -1,8 +1,7 @@
 ### Olá eu sou o Renatohigor 👋
 
-- 🔭 Hoje trabalho atualmente na area de TI
+- 🔭 Hoje trabalho na area de TI
 - 🌱 Estudando Typescript, ReactJS
-- 📫 How to reach me: ...
 - 😄 Pronouns: Ele/Dele
 
  <div>

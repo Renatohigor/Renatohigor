@@ -1,8 +1,8 @@
 ### Olá eu sou o Renatohigor 👋
 
 - 🔭 Hoje trabalho na area de TI
-- 🌱 Estudando JavaScript, ReactJs
-- 😄 Pronouns: Ele/Dele
+- 🧠 Estudando TypeScript, ReactJs, VueJs
+- 👨🏾‍🎓 Bacharel em Ciência da Computação
 
  <div>
   <a href="https://github.com/Renatohigor">
